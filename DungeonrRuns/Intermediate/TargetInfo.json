@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DungeonrRuns",
+			"Path": "..\\Source\\DungeonrRuns.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonrRunsEditor",
+			"Path": "..\\Source\\DungeonrRunsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

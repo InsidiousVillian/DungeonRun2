@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "DungeonrRunsEditor Editor Win64 Development (DungeonrRuns)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\DungeonRun2\\DungeonrRuns\\.vscode\\compileCommands_DungeonrRuns.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\DungeonRun2\\DungeonrRuns\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}
