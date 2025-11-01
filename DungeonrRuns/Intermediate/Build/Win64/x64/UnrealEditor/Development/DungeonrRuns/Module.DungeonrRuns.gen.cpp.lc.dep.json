@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jetta\\onedrive\\documentos\\github\\dungeonrun2\\dungeonrruns\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonrruns\\module.dungeonrruns.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jetta\\onedrive\\documentos\\github\\dungeonrun2\\dungeonrruns\\intermediate\\build\\win64\\x64\\dungeonrrunseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jetta\\onedrive\\documentos\\github\\dungeonrun2\\dungeonrruns\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonrruns\\definitions.dungeonrruns.h",
+            "c:\\users\\jetta\\onedrive\\documentos\\github\\dungeonrun2\\dungeonrruns\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonrruns\\uht\\dungeonrruns.init.gen.cpp",
+            "c:\\users\\jetta\\onedrive\\documentos\\github\\dungeonrun2\\dungeonrruns\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonrruns\\uht\\testeractor.gen.cpp",
+            "c:\\users\\jetta\\onedrive\\documentos\\github\\dungeonrun2\\dungeonrruns\\source\\dungeonrruns\\testeractor.h",
+            "c:\\users\\jetta\\onedrive\\documentos\\github\\dungeonrun2\\dungeonrruns\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonrruns\\uht\\testeractor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

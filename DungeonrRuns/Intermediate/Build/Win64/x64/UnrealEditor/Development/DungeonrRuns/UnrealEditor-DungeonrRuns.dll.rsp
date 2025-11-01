@@ -37,12 +37,15 @@
 /NOIMPLIB
 /NOEXP
 "C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/DungeonrRunsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/DungeonrRuns.init.gen.cpp.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/TesterActor.gen.cpp.obj"
 "C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/DungeonrRuns.cpp.obj"
 "C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/PerModuleInline.gen.cpp.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/TesterActor.cpp.obj"
 "C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/Default.rc2.res"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
-"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/InputCore/UnrealEditor-InputCore.lib"
 "../Plugins/EnhancedInput/Intermediate/Build/Win64/x64/UnrealEditor/Development/EnhancedInput/UnrealEditor-EnhancedInput.lib"
 "delayimp.lib"

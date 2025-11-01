@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DungeonrRuns.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/DungeonrRunsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/Module.DungeonrRuns.gen.cpp.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/DungeonrRuns.cpp.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/PerModuleInline.gen.cpp.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/TesterActor.cpp.obj"
+"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/Default.rc2.res"
+/OUT:"C:/Users/jetta/OneDrive/Documentos/GitHub/DungeonRun2/DungeonrRuns/Intermediate/Build/Win64/x64/UnrealEditor/Development/DungeonrRuns/UnrealEditor-DungeonrRuns.lib"

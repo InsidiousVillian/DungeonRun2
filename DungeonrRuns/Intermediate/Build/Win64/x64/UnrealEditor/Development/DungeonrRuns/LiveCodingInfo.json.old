@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DungeonrRuns.gen.cpp.obj": [
+			"DungeonrRuns.init.gen.cpp.obj",
+			"TesterActor.gen.cpp.obj"
+		]
+	}
+}
